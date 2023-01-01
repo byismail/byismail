@@ -1,0 +1,72 @@
+body {
+	background: url("images/fon.jpg") left;
+	background-repeat: no-repeat;
+}
+
+@font-face {
+	font-family: "font1";
+	font-style: normal;
+	src: url("font/font1.ttf");
+}
+@font-face {
+	font-family: "font2";
+	font-style: normal;
+	src: url("font/font2.ttf");
+}
+
+.hello {
+	font-size: 50px;
+	font-family: font1;
+	color: #ffffff;
+	background-color: #0000ff;
+	border: 1px solid #000000;
+	border-color: #00ff00;
+	width: 500px;
+	margin-left: 650px;
+	border-radius: 17px;
+}
+
+.info {
+	margin-top: 150px;
+	font-size: 25px;
+	font-family: font2;
+	color: #ffffff;
+	border: 5px solid #ffffff;
+	width: 1000px;
+	margin-left: 400px;
+	border-radius: 20px;
+	background-color: #545454;
+}
+
+ol {
+	font-size: 20px;
+	font-family: font2;
+	color: #ffffff;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: font1;
+	color: #ffffff;
+	margin-top: 30px;
+}
+
+.aboutme {
+	color: #ffffff;
+	font-family: font2;
+	font-size: 30px;
+	text-align: center;
+	border: 5px solid #ffffff;
+	border-radius: 30px;
+	background-color: #545454;
+	opacity: 0.9;
+	width: 1000px;
+	margin-left: 400px;
+}
+
+.aboutmetitle {
+	color: #ffffff;
+	font-family: font1;
+	font-size: 30px;
+	text-align: center;
+}

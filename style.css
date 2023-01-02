@@ -70,3 +70,13 @@ h2 {
 	font-size: 30px;
 	text-align: center;
 }
+
+.lol {
+	font-size: 18px;
+	font-family: font2;
+	color: #ffffff;
+	text-align: center;
+	margin-left: 1500px;
+	border: 7px solid #ffffff;
+	border-radius: 30px;
+}
